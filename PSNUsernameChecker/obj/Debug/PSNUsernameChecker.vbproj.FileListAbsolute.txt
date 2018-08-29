@@ -1,0 +1,18 @@
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.Form1.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.Resources.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.vbproj.GenerateResource.Cache
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\bin\Debug\PSNUsernameChecker.exe.config
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\bin\Debug\PSNUsernameChecker.exe
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\bin\Debug\PSNUsernameChecker.pdb
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\bin\Debug\PSNUsernameChecker.xml
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.exe
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.xml
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.pdb
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\For Site\PSNUsernameChecker\PSNUsernameChecker\bin\Debug\PSNUsernameChecker.exe.config
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\For Site\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.exe
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\For Site\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.xml
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\For Site\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.pdb
+F:\General Files\Programs\For Site\PSNUsernameChecker\PSNUsernameChecker\bin\Debug\PSNUsernameChecker.exe.config
+F:\General Files\Programs\For Site\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.exe
+F:\General Files\Programs\For Site\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.xml
+F:\General Files\Programs\For Site\PSNUsernameChecker\PSNUsernameChecker\obj\Debug\PSNUsernameChecker.pdb
